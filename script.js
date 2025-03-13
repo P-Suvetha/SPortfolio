@@ -123,19 +123,19 @@ function changeContent(section) {
                 <div class="content">
                     <h1 data-aos="fade-left" data-aos-duration="1000" data-aos-delay="800">Projects</h1>
                     <div class="project-box" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1000">
-                        <h2>AI Insurance Bot</h2>
-                        <img src="pimage/chatbot.png" alt="AI Insurance Bot" style="width:20%; height:auto; margin-bottom: 10px;">
-                        <button onclick="window.open('https://github.com/sarathibalamurugan/Q-A-Chatbot', '_blank')">Source Code</button>
+                        <h2>Full Stack Project</h2>
+                        <img src="pimage/fullstack.webp" alt="Full Stack Project" style="width:20%; height:auto; margin-bottom: 10px;">
+                        <button onclick="window.open('https://github.com/P-Suvetha/React-Project.git', '_blank')">Source Code</button>
                     </div>
                     <div class="project-box" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1200">
-                        <h2>Web Scraping and Data Extracting Bot</h2>
-                        <img src="pimage/webscrap.jpg" alt="Web Scraping and Data Extracting Bot" style="width:20%; height:auto; margin-bottom: 10px;">
-                        <button onclick="window.open('https://github.com/sarathibalamurugan/WebScrapper', '_blank')">Source Code</button>
+                        <h2>CRUD Project</h2>
+                        <img src="pimage/webscrap.jpg" alt="CRUD Project" style="width:20%; height:auto; margin-bottom: 10px;">
+                        <button onclick="window.open('https://github.com/P-Suvetha/Crud-Project.git', '_blank')">Source Code</button>
                     </div>
                     <div class="project-box" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1400">
-                        <h2>Balloon Shooter Game (HTML, CSS, JS)</h2>
-                        <img src="pimage/balloongame.png" alt="Balloon Shooter Game" style="width:20%; height:auto; margin-bottom: 10px;">
-                        <button onclick="window.open('https://github.com/sarathibalamurugan/shooting-aim-trainer-game', '_blank')">Source Code</button>
+                        <h2>HTML Project</h2>
+                        <img src="pimage/balloongame.png" alt="HTML Project" style="width:20%; height:auto; margin-bottom: 10px;">
+                        <button onclick="window.open('https://github.com/P-Suvetha/Html-Training1.git', '_blank')">Source Code</button>
                     </div>
                 </div>
             `;
