@@ -38,7 +38,7 @@ function changeContent(section) {
                             <a href="https://leetcode.com/u/ssuvetha254/" target="_blank"><i class="fa-solid fa-code"></i></a> <!-- Updated LeetCode button to look like others -->
                         </div>
                         <div class="btn" data-aos="zoom-out-left" data-aos-duration="1000" data-aos-delay="1300">
-                            <button onclick="window.open('SUVETHA PERIYASAMY (3).pdf', '_blank')">Download CV</button>
+                            <button onclick="window.open('suvetha.pdf', '_blank')">Download CV</button>
                         </div>
                     </div>
                 </div>
