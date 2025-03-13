@@ -122,11 +122,7 @@ function changeContent(section) {
             content = `
                 <div class="content">
                     <h1 data-aos="fade-left" data-aos-duration="1000" data-aos-delay="800">Projects</h1>
-                    <div class="project-box" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1000">
-                        <h2>Full Stack Project</h2>
-                        <img src="pimage/fullstack.webp" alt="Full Stack Project" style="width:20%; height:auto; margin-bottom: 10px;">
-                        <button onclick="window.open('https://github.com/P-Suvetha/React-Project.git', '_blank')">Source Code</button>
-                    </div>
+                    
                     <div class="project-box" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1200">
                         <h2>CRUD Project</h2>
                         <img src="pimage/crud1.png" alt="CRUD Project" style="width:20%; height:auto; margin-bottom: 10px;">
