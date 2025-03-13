@@ -31,14 +31,14 @@ function changeContent(section) {
                     grow my frontend development skills in a professional setting. 
                     </p>
                         <div class="social-links" data-aos="flip-down" data-aos-duration="1000" data-aos-delay="1200">
-                            <a href="https://github.com/sarathibalamurugan" target="_blank"><i class="fa-brands fa-github"></i></a>
+                            <a href="https://github.com/P-Suvetha" target="_blank"><i class="fa-brands fa-github"></i></a>
                             <!-- Removed the Facebook button -->
                             <a href="https://www.linkedin.com/in/suvetha-periyasamy/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
                             <!-- Removed the X (Twitter) button -->
                             <a href="https://leetcode.com/u/ssuvetha254/" target="_blank"><i class="fa-solid fa-code"></i></a> <!-- Updated LeetCode button to look like others -->
                         </div>
                         <div class="btn" data-aos="zoom-out-left" data-aos-duration="1000" data-aos-delay="1300">
-                            <button onclick="window.open('suvetha(web).pdf', '_blank')">Download CV</button>
+                            <button onclick="window.open('SUVETHA PERIYASAMY (3).pdf', '_blank')">Download CV</button>
                         </div>
                     </div>
                 </div>
