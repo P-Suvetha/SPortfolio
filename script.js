@@ -125,12 +125,12 @@ function changeContent(section) {
                     
                     <div class="project-box" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1200">
                         <h2>CRUD Project</h2>
-                        <img src="pimage/CRUD.png" alt="CRUD Project" style="width:20%; height:auto; margin-bottom: 10px;">
+                        <img src="/pimage/CRUD.png" alt="CRUD Project" style="width:20%; height:auto; margin-bottom: 10px;">
                         <button onclick="window.open('https://github.com/P-Suvetha/Crud-Project.git', '_blank')">Source Code</button>
                     </div>
                     <div class="project-box" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1400">
                         <h2>HTML Project</h2>
-                        <img src="pimage/HTML.png" alt="HTML Project" style="width:20%; height:auto; margin-bottom: 10px;">
+                        <img src="/pimage/HTML.png" alt="HTML Project" style="width:20%; height:auto; margin-bottom: 10px;">
                         <button onclick="window.open('https://github.com/P-Suvetha/Html-Training1.git', '_blank')">Source Code</button>
                     </div>
                 </div>
